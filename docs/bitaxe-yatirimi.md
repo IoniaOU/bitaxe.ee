@@ -2,7 +2,7 @@
 layout: default
 title: Bitaxe bir yatırım aracı mıdır?
 nav_enabled: true
-nav_order: 3
+nav_order: 4
 ---
 
 ## Bitaxe bir yatırım aracı mıdır?

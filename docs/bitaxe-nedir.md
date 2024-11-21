@@ -22,3 +22,7 @@ Başlıca olarak
 - DigiByte (DGB)
 
 gibi kriptoparalar kazılabilir.
+
+## Bitaxe'ın ana amacı nedir?
+
+Bitaxe, ev ortamında solo madencilik yapmak amacı ile tasarlanmış bir cihazdır.
