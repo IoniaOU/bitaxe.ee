@@ -5,11 +5,6 @@ nav_enabled: true
 nav_order: 6
 ---
 
-### Mini Sözlük
-`pool = havuz`
-
-`non-KYC = Kimlik doğrulaması gerektirmeyen`
-
 ## Sadece Solo Pool Önerileri
 Bitaxe ile çok kullanılan poollarda veya Ocean ([ocean.xyz](https://ocean.xyz)) gibi non-KYC Bitcoin poollarında kazım yapmak mümkündür ancak Bitaxe ile bu poollarda kazım yapmak iki sebeple mantıklı değildir:
 
